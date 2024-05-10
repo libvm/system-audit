@@ -1,8 +1,3 @@
-## Description
-
-This is a program designed to trace system calls of a specified process on a Linux system. It utilizes the ptrace system call to attach to the target process, monitor its system calls, and log them to a file using a custom logger.
-
-
 ## Usage:
 
 Compile the program:
